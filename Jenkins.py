@@ -1,7 +1,3 @@
-from ast import While
-from tkinter.tix import Tree
-
-
 name = []
 print("Press to exit 'q'")
 while True:
