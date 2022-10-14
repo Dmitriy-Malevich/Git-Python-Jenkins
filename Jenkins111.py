@@ -8,4 +8,4 @@ while True:
 print("Complete list of names:")
 for f_name in name:
     print(f_name)
-    print("-------------------------END----------------------")
+    print("The end")
